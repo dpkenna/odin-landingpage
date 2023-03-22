@@ -11,9 +11,10 @@ body {
 }
 
 .header-logo {
-    font-weight: 900;
     margin-right: auto;
-    color: white;
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
 }
 
 .header-link {
