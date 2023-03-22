@@ -3,8 +3,11 @@
     background-color: #1f2937;
     display: flex;
     padding: 48px 96px;
+    justify-content: flex-end;
+    gap: 24px;
 }
 
 .header-logo {
     font-weight: bold;
+    margin-right: auto;
 }
