@@ -11,3 +11,8 @@
     font-weight: bold;
     margin-right: auto;
 }
+
+.header-link {
+    color: white;
+    text-decoration: none;
+}
