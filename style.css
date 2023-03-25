@@ -2,8 +2,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.header {
+.header, .hero {
     background-color: #1f2937;
+}
+
+.header {
     display: flex;
     padding: 48px 96px;
     justify-content: flex-end;
