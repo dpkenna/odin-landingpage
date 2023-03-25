@@ -2,6 +2,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+p {
+    margin: 0;
+    padding: 0;
+}
+
 .header, .hero {
     background-color: #1f2937;
 }
@@ -40,6 +45,10 @@ body {
 .hero-title {
     font-size: 48px;
     font-weight: 900;
+}
+
+.hero-right {
+    margin-left: auto;
 }
 
 .hero-image {
