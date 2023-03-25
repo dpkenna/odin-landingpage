@@ -11,7 +11,7 @@ p {
     background-color: #1f2937;
 }
 
-.header-logo, .hero-title {
+.header-logo, .hero-title, .hero-button {
     color: #f9faf8;
 }
 
@@ -49,6 +49,10 @@ p {
 
 .hero-right {
     margin-left: auto;
+}
+
+.hero-button {
+    background-color: #3882f6;
 }
 
 .hero-image {
