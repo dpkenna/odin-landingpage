@@ -13,6 +13,7 @@ p {
 
 .header-logo, .hero-title, .hero-button {
     color: #f9faf8;
+    font-weight: 900;
 }
 
 .header-link, .hero-text, .hero-button {
@@ -30,7 +31,6 @@ p {
 .header-logo {
     margin-right: auto;
     font-size: 24px;
-    font-weight: 900;
 }
 
 .header-link {
@@ -44,7 +44,6 @@ p {
 
 .hero-title {
     font-size: 48px;
-    font-weight: 900;
 }
 
 .hero-right {
