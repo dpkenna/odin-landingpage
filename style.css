@@ -52,7 +52,6 @@ p {
 }
 
 .hero-image {
-    width: 300px;
-    height: 200px;
+    width: 500px;
     object-fit: contain;
 }
