@@ -10,6 +10,10 @@ body {
     color: #f9faf8;
 }
 
+.header-link, .hero-text {
+    color: #e5e7eb;
+}
+
 .header {
     display: flex;
     padding: 48px 96px;
@@ -24,7 +28,6 @@ body {
 }
 
 .header-link {
-    color: #e5e7eb;
     text-decoration: none;
     font-size: 18px;
 }
