@@ -25,6 +25,7 @@ body {
 
 .hero {
     display: flex;
+    padding: 48px 96px;
 }
 
 .hero-image {
