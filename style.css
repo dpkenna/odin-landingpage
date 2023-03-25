@@ -6,6 +6,10 @@ body {
     background-color: #1f2937;
 }
 
+.header-logo, .hero-title {
+    color: #f9faf8;
+}
+
 .header {
     display: flex;
     padding: 48px 96px;
@@ -15,7 +19,6 @@ body {
 
 .header-logo {
     margin-right: auto;
-    color: #f9faf8;
     font-size: 24px;
     font-weight: 900;
 }
