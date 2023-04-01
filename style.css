@@ -79,3 +79,7 @@ p {
     max-height: 200px;
     max-width: 200px;
 }
+
+.info-text {
+    text-align: center;
+}
