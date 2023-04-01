@@ -61,3 +61,8 @@ p {
     width: 500px;
     object-fit: contain;
 }
+
+.info-image {
+    max-height: 200px;
+    max-width: 200px;
+}
