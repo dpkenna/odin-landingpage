@@ -62,6 +62,12 @@ p {
     object-fit: contain;
 }
 
+.info-body {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
 .info-item {
     max-height: 300px;
     max-width: 200px;
