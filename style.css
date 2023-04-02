@@ -125,4 +125,5 @@ p {
 .cta-highlight {
     background-color: #3882f6;
     border-radius: 15px;
+    display: flex;
 }
