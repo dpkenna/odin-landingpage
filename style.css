@@ -130,4 +130,9 @@ button, .cta-highlight {
     border-radius: 15px;
     display: flex;
     padding: 25px 50px;
+    align-items: center;
+}
+
+.cta-right {
+    margin-left: auto;
 }
