@@ -102,6 +102,8 @@ p {
 .quote-section {
     background-color: #e5e7eb;
     padding: 60px 200px;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
