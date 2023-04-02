@@ -121,3 +121,8 @@ p {
 .cta {
     padding: 60px 200px;
 }
+
+.cta-highlight {
+    background-color: #3882f6;
+    border-radius: 15px;
+}
