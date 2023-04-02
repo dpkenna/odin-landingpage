@@ -28,7 +28,7 @@ button {
     font-weight: 900;
 }
 
-.header-link, .hero-text {
+.header-link, .hero-text, .footer {
     color: #e5e7eb;
     font-size: 18px;
 }
