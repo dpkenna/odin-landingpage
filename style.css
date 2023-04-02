@@ -66,11 +66,14 @@ p {
     padding: 20px 0px 60px 0px;
 }
 
+.info-title, .quote {
+    color: #1f2937;
+}
+
 .info-title {
     text-align: center;
     font-size: 36px;
     font-weight: 900;
-    color: #1f2937;
     padding: 20px 0px;
 }
 
@@ -105,5 +108,4 @@ p {
     font-size: 36px;
     font-weight: light;
     font-style: italic;
-    color: #1f2937;
 }
