@@ -153,4 +153,6 @@ button {
 
 .footer {
     padding: 48px 0px;
+    display: flex;
+    justify-content: center;
 }
