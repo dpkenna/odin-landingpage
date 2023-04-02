@@ -9,7 +9,8 @@ p {
 
 button, .cta-highlight {
     background-color: #3882f6;
-    color: white;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .header, .hero {
