@@ -7,6 +7,10 @@ p {
     padding: 0;
 }
 
+button, .cta-highlight {
+    background-color: #3882f6;
+}
+
 .header, .hero {
     background-color: #1f2937;
 }
@@ -51,7 +55,6 @@ p {
 }
 
 .hero-button {
-    background-color: #3882f6;
     padding: 10px 25px;
     border-radius: 15px;
     border: none;
@@ -123,7 +126,7 @@ p {
 }
 
 .cta-highlight {
-    background-color: #3882f6;
     border-radius: 15px;
     display: flex;
+    padding: 25px 50px;
 }
